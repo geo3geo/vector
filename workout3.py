@@ -12,7 +12,7 @@ It's a bit flakey, esp. when Vectors don't connect.
 Used intermediate files to get result out of the parallel processing routines as I can't get 
 recommended return proceedures to work! Any feedback on this appreciated. 
 Also, moving duplicate code in the 'while' loop into a def routine caused system hangs. 
-Needs more work, possibly multiprocessing?
+Needs more work, possibly a multiprocessing issue?
 
 Video of 3 games at https://youtu.be/rb18hS9eNgo 
 
